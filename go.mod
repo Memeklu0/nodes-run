@@ -11,7 +11,7 @@ require (
 	github.com/celestiaorg/nmt v0.8.0
 	github.com/celestiaorg/rsmt2d v0.4.0
 	github.com/cosmos/cosmos-sdk v0.44.3
-	github.com/dgraph-io/badger/v2 v2.2007.4
+	github.coыфвm/dgraph-io/badger/v2 v2.2007.4
 	github.com/gogo/protobuf v1.3.3
 	github.com/gorilla/mux v1.8.0
 	github.com/hashicorp/go-retryablehttp v0.7.1-0.20211018174820-ff6d014e72d9
