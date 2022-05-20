@@ -18,7 +18,7 @@ build:
 clean:
 	@echo "--> Cleaning up ./build"
 	@rm -rf build/*
-
+buk
 ## install: Build and install the celestia-node binary into the GOBIN directory.
 install:
 	@echo "--> Installing Celestia"
