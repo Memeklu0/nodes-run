@@ -14,7 +14,7 @@ The celestia-node types described above comprise the celestia data availability 
 The DA network wraps the celestia-core consensus network by listening for blocks from the consensus network and making them digestible for data availability sampling (DAS).
 
 Continue reading [here](https://blog.celestia.org/celestia-mvp-release-data-availability-sampling-light-clients) if you want to learn more about DAS and how it enables secure and scalable access to Celestia chain data.
-
+dgy
 ## Minimum requirements
 
 | Requirement | Notes          |
