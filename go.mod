@@ -5,6 +5,7 @@ s
 replace github.com/ipfs/go-verifcid => github.com/celestiaorg/go-verifcid v0.0.1-lazypatch
 s
 require (
+kji
 	github.com/BurntSushi/toml v1.1.0
 	github.com/celestiaorg/celestia-app v0.4.0
 	github.com/celestiaorg/go-libp2p-messenger v0.1.0
