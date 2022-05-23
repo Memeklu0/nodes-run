@@ -6,7 +6,7 @@ All work on the code base should be motivated by [our Github
 issues](https://github.com/celestiaorg/celestia-node/issues). If you
 would like to work on an issue which already exists, please indicate so
 by leaving a comment.
-
+jhy
 All new contributions should start with a [Github
 issue](https://github.com/celestiaorg/celestia-node/issues/new/choose). The
 issue helps capture the problem you're trying to solve and allows for
